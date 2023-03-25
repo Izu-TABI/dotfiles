@@ -1,0 +1,50 @@
+{
+	"analytics-uuid": "13ebf156-89f8-4f00-910d-2de2695f87c8",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1678625558666
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "115482390992160521207",
+		"email": "masakisama14@gmail.com",
+		"email_verified": true,
+		"at_hash": "aJ3aPWSNgUTMZIMo_OWweQ",
+		"iat": 1676562911,
+		"exp": 1676566511
+	},
+	"tokens": {
+		"expires_at": 1678629157634,
+		"refresh_token": "1//0e0NvmZXKPtVeCgYIARAAGA4SNwF-L9Irr3ZoKn1ikzMlXAkprHbXiuop24sm3PBYyv4_WejkVpXyX5pZHIzSud2RY1okFdvmBi8",
+		"scopes": [],
+		"access_token": "ya29.a0AVvZVspjQ0m1niZnDbOCRopmK_k-xvxWC8HMyS3fk_1kE8VR3WWTWDBfH-HWgAfJTmWhlrwOMGz2FJYo1nwHruuL346Zf_2qPWN_XOVnqeq_zXVCLnFjZsOCsCx_dmgyx2KryVtmFclNHz2K9i-xnCMS6AMEBxooudbF-QaCgYKAY8SARISFQGbdwaIfSpeAvHGNzu_-fobnsEnJA0173",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/userinfo.email",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjVkZjFmOTQ1ZmY5MDZhZWFlZmE5M2MyNzY5OGRiNDA2ZDYwNmIwZTgiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE1NDgyMzkwOTkyMTYwNTIxMjA3IiwiZW1haWwiOiJtYXNha2lzYW1hMTRAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiIwNFFDYkUzNUZ5d2JGWVN0QVI4dUJRIiwiaWF0IjoxNjc4NjI1NTU4LCJleHAiOjE2Nzg2MjkxNTh9.JxskQbbDUXJCPbu0gBiO5wEdD85ArwPHA7NyZmDp94BwwYmtrNewqGzhH3qdUzlWi9BwQDLLYtgQQ4tOUELnRALZAui1dwdPQ6WaiGLjs9D33_VQQAIDoPcDeEi8PBo_TpIo_9uinMovh0DxJVmSqiz2Br1owA1f-K0xyHtloy0UVrble2LFjoXfhNP5UixJN5LUxNgojJ32BtsRaw9bJoN-5ok_SrV0dA_Z5ou6iEhbUkg9oLh1VcUq7sbP7bactsghcLGiDLtYdCLfOAdpMvyAY8mxvGyjL3NP_1wFn335M-CqlDuSw_cz7clTGIJ0BBs9nyWiyAklVVoZFDfrqA"
+	},
+	"activeProjects": {
+		"/Users/odentabetai/Documents/code/WEB/work/focus": "focus-f0429"
+	},
+	"emulator-analytics-clientId": "5e7de2cd-5cbb-456c-b8cb-ad966dff6ff0",
+	"webconfig": {
+		"focus-f0429": {
+			"projectId": "focus-f0429",
+			"appId": "1:306306483452:web:427cfcb199d1708d424379",
+			"storageBucket": "focus-f0429.appspot.com",
+			"apiKey": "AIzaSyDPPOPvWn8ImmkMljlRJYm69dVxkIIHM_M",
+			"authDomain": "focus-f0429.firebaseapp.com",
+			"messagingSenderId": "306306483452",
+			"measurementId": "G-9RJMXYF9YV"
+		}
+	}
+}
